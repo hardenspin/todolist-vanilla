@@ -1,1 +1,2 @@
 TODO LIST - VANILLA JS
+By: Harden Spin
