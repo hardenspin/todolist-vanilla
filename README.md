@@ -1,2 +1,2 @@
 # todolist-vanilla
-ToDo List created with vanillaJS
+ToDo List created using vanillaJS
